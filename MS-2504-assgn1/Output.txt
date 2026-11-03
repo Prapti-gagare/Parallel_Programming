@@ -1,0 +1,3 @@
+Number of natural numbers is100
+Number of processors is10
+Globle sum=5050
