@@ -1,0 +1,12 @@
+Simpson's 3/8 Rule
+Processors: 4
+----------------------------------
+Intervals: 16
+Invalid: Intervals must be divisible by 3
+----------------------------------
+Intervals: 24
+Integral: 1.52385035
+----------------------------------
+Intervals: 36
+Integral: 1.52380478
+----------------------------------
